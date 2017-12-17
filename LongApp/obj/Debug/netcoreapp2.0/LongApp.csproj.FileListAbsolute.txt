@@ -1,0 +1,11 @@
+C:\Users\zheng\source\repos\LongApp\LongApp\bin\Debug\netcoreapp2.0\LongApp.deps.json
+C:\Users\zheng\source\repos\LongApp\LongApp\bin\Debug\netcoreapp2.0\LongApp.runtimeconfig.json
+C:\Users\zheng\source\repos\LongApp\LongApp\bin\Debug\netcoreapp2.0\LongApp.runtimeconfig.dev.json
+C:\Users\zheng\source\repos\LongApp\LongApp\bin\Debug\netcoreapp2.0\LongApp.dll
+C:\Users\zheng\source\repos\LongApp\LongApp\bin\Debug\netcoreapp2.0\LongApp.pdb
+C:\Users\zheng\source\repos\LongApp\LongApp\obj\Debug\netcoreapp2.0\LongApp.csprojResolveAssemblyReference.cache
+C:\Users\zheng\source\repos\LongApp\LongApp\obj\Debug\netcoreapp2.0\LongApp.csproj.CoreCompileInputs.cache
+C:\Users\zheng\source\repos\LongApp\LongApp\obj\Debug\netcoreapp2.0\LongApp.AssemblyInfoInputs.cache
+C:\Users\zheng\source\repos\LongApp\LongApp\obj\Debug\netcoreapp2.0\LongApp.AssemblyInfo.cs
+C:\Users\zheng\source\repos\LongApp\LongApp\obj\Debug\netcoreapp2.0\LongApp.dll
+C:\Users\zheng\source\repos\LongApp\LongApp\obj\Debug\netcoreapp2.0\LongApp.pdb
