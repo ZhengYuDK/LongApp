@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using LongApp.Models;
+using LongApp.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 
 namespace LongApp.Controllers
@@ -21,7 +22,11 @@ namespace LongApp.Controllers
         // Return a view 
         public ViewResult List()
         {
-            return View(_productRepository.Products);
+            var viewModel = new ProductListViewModel();
+            viewModel.Products = _productRepository.Products;
+            viewModel.CurrentCategory = _categoryRepository.Categories.FirstOrDefault();
+
+            return View(viewModel);
         }
 
         // Return an action
